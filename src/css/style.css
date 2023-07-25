@@ -117,3 +117,10 @@ main .poke-card .tipo{
 .inseto{
     background-color: #a6b91a;
 }
+
+main .descricao{
+    max-height: 80px;
+    overflow-y: scroll;
+    font-size: 14px;
+    padding-right: 10px;
+}
